@@ -92,6 +92,7 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+	//TODO EX4
 
     /* USER CODE BEGIN 3 */
   }
